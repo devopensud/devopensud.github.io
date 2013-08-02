@@ -3,4 +3,4 @@ layout: post
 title:  "Contacts"
 date:   2013-07-22 18:00:00
 ---
-Les infos pour contacter les orgas.
+Il n'y a pas vraiment d'organisateur, mais si vous avez des questions, vous pouvez Antoine et Stéphane via twitter ([@avernois](https://twitter.com/avernois) et [@pointbar](https://twitter.com/pointbar)) ou sur irc (##devopensud sur freenode).

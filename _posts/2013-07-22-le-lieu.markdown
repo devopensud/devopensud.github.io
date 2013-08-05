@@ -2,6 +2,8 @@
 layout: post
 title:  "Le lieu"
 date:   2013-07-22 18:11:00
-categories: jekyll update
 ---
-Les infos sur le lieu.
+Dev Open Sud se tiendra au gîte [Equisud](http://www.equisud.com) aux Angles, dans les Pyrénées.
+À proximité, montagne, forêt, lac : il y a moyen de ne pas faire que du code, ou d'en faire dans des lieux originaux :)
+
+Sans être austère l'hébergement est décontracté (dortoirs de 4 ou 5 lits).

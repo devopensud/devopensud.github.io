@@ -9,4 +9,4 @@ date:   2013-07-22 18:12:12
 C'est ceux qui seront là qui feront l'événement.
 
 Le ticket d'entrée est fixé à 100 € et couvre uniquement les repas et l'hébergement.
-[Les inscriptions se font via eventbrite](https://devopensud.eventbrite.fr) (le paiment se fait directement avec le gîte, vous aurez les infos une fois inscrit).
+[Les inscriptions se font via eventbrite](https://devopensud.eventbrite.fr) (le paiement se fait directement avec le gîte, vous aurez les infos une fois inscrit).

@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "FAQ"
-date:   2013-09-12 10:00:00
+date:   2014-03-06 10:00:00
 ---
 #### Dev Open Sud, c'est quoi ?
-En pleine montagne, à proximité d'une forêt et d'un lac, des développeurs se réunissent dans un gîte équestre pour échanger, développer, se balader, binômer, collaborer, jouer, ...
+En pleine montagne, des développeurs se réunissent dans un chalet pour échanger, développer, se balader, binômer, collaborer, jouer, ...
 
 #### Mais qui organise ce truc ?
 Il n'y a s/pas vraiment/vraiment pas/ d'organisateurs.
@@ -13,13 +13,13 @@ Il n'y a s/pas vraiment/vraiment pas/ d'organisateurs.
 Le tarif est fixé à 100 euros, cela correspond au sou près aux frais de logement et de repas.
 
 #### Concrètement les 100 euros couvrent quoi ?
-Du vendredi 4 octobre après midi jusqu'au dimanche 6 octobre vers 15h, tes repas, petits déjeuners et même ton lit seront pris en charge.
+Du jeudi 1er mai après-midi jusqu'au dimanche 5 mai après-midi, tes repas, petits déjeuners et même ton lit seront pris en charge.
 
 #### Dois-je verser des arrhes ?
-Oui, pour valider ton inscription envoie rapidement un chèque de 30 € à - Equisud - Route de la Forêt - 66210 Les Angles.
+Oui, pour valider ton inscription envoie rapidement un chèque de 30 € à - Scopyleft - 5, chemin de la Magnanerie - 34830 Clapiers.
 
 #### Une facture c'est possible ?
-Voui, tu dois régler directement le gîte Équisud, il te suffira d'en profiter pour demander la facture correspondante.
+Voui, nous pouvons te faire une jolie facture.
 
 #### Je m'inscris où ?
 [http://devopensud.eventbrite.com](http://devopensud.eventbrite.com).
@@ -28,7 +28,7 @@ Voui, tu dois régler directement le gîte Équisud, il te suffira d'en profiter
 Peut-être 10, maximum 25, et sans doute 20.
 
 #### Vous n'avez rien prévu pour le covoiturage ?
-Beh, nous on ne prévoit rien. Mais toi, tu peux utiliser la [liste](mailto:devopensud@googlegroups.com) pour t'organiser ;)
+Beh, nous on ne prévoit rien. Mais toi, tu peux utiliser la [liste](mailto:devopensud@librelist.com) pour t'organiser ;)
 
 #### Et il faut des chaînes pour monter aux Angles ?
 La question fait débat, deux écoles très marquées se disputent depuis des années sur le sujet. Une chose est sûr, l'autochtone est formel : "des fois oui !".
@@ -40,13 +40,13 @@ Sans être austère, l’hébergement est décontracté. Il y a 4 chambres avec 
 Oui, tu dois pouvoir trouver un moyen d'organiser une chambre sans ronfleur. Sinon, pourquoi ne pas essayer de leurrer tes oreilles avec des boules Quies™.
 
 #### On mange quoi ?
-N'espère pas perdre des kilos à Équisud, le patron [Olivier](mailto:equisud@equisud.com) est un viandard, et, qui plus est, un excellent cuisinier. Si tu manges sans gluten ou que tu es végétalien, sois gentil préviens avant.
+Si tu manges sans gluten ou que tu es végétalien, sois gentil préviens avant. Pour le reste nous n'avons pas encore statué.
 
 #### Tient au fait, où c'est ?
-Aux angles (66), à l'orée de la forêt de Matemale, très précisément : [Équisud oms](http://www.openstreetmap.org/#map=18/42.58450/2.08844)
+Aux Chalets d'Iraty, très précisément : [OMS](http://www.openstreetmap.org/#map=17/43.03726/-1.02744)
 
 #### Il y a un site ou des photos pour me faire rêver ?
-[http://equisud.com](http://equisud.com) et [Flickr Équisud](https://secure.flickr.com/photos/equisud)
+[http://chalets-iraty.com](http://www.chalets-iraty.com) et [quelques photos](https://duckduckgo.com/?q=%22chalets+d%27iraty%22+!gi)
 
 #### Et si j'ai une question ?
-Tu peux contacter Antoine - [@avernois](http://twitter.com/avernois) - ou Stéphane - [@langlois_s](http://twitter.com/langlois_s) - [+33(0)611782563](tel:+33611782563) ou te connecter sur IRC ##devopensud.
+Tu peux contacter Antoine - [@avernois](http://twitter.com/avernois) - ou Stéphane - [@langlois_s](http://twitter.com/langlois_s) - [+33(0)611782563](tel:+33611782563) ou - [@brunobord](http://twitter.com/brunobord) - ou te connecter sur IRC ##devopensud.

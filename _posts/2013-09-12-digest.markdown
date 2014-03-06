@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Digest"
-date:   2013-09-12 12:00:00
+date:   2014-03-06 12:00:00
 ---
 
 * 25 développeurs se réunissent.
-* Un gîte dans les Pyrénées.
-* Du 4 octobre 14h au 6 octobre 15h.
+* Un gîte au pays Basque.
+* Du 1er mai matin au 4 mai fin d'aprèm.
 * Pas de programme à l’avance.
 * Pas d’organisateur.
 * 100 euros pour les repas et l’hébergement.

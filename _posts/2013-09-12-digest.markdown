@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "Digest"
-date:   2014-03-06 12:00:00
+date:   2014-03-10 12:00:00
 ---
 
+* Du jeudi 1er mai au dimanche 4 mai.
 * 25 développeurs se réunissent.
 * Un gîte au Pays Basque.
 * Du 1er mai matin au 4 mai fin d'aprèm.

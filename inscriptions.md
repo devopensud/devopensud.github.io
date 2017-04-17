@@ -7,3 +7,4 @@ description: Inscription au devopensud 2017 -- Equisud
 
 Ajoute ton nom et un moyen de te contacter ici :
 - Stéphane Langlois - [@pntbr](https://mamot.fr/@pntbr)
+- Antoine Vernois - [@avernois](https://twitter.com/avernois)

@@ -10,3 +10,4 @@ Ajoute ton nom et un moyen de te contacter ici :
 - Antoine Vernois - [@avernois](https://twitter.com/avernois)
 - Vincent Agnano - vincent.agnano at scopyleft fr
 - Fabien Tregan - [@ftregan](https://twitter.com/ftregan)
+- Hugo Mochet - [@HugoMochet](https://twitter.com/HugoMochet)

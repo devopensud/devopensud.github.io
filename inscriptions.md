@@ -8,3 +8,5 @@ description: Inscription au devopensud 2017.3 -- Mallaret
 Ajoute ton nom et un moyen de te contacter ici :
 - Emmanuel Gaillot - 
 - Stéphane Langlois - [@pntbr](https://mamot.fr/@pntbr)
+- Julien de Santis-Caron
+- Christian Lapointe

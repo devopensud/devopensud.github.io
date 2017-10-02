@@ -10,3 +10,4 @@ Ajoute ton nom et un moyen de te contacter ici :
 - Stéphane Langlois - [@pntbr](https://mamot.fr/@pntbr)
 - Julien de Santis-Caron
 - Christian Lapointe
+- Fabien

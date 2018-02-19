@@ -1,0 +1,23 @@
+{
+  "name": "devopensud.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devopensud/devopensud.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devopensud/devopensud.github.io/issues"
+  },
+  "homepage": "https://github.com/devopensud/devopensud.github.io#readme"
+}

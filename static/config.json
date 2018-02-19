@@ -8,8 +8,8 @@
       "smartLists": true,
       "smartypants": false
     },
-    "title": "Dev Open Sud 2017.2",
+    "title": "Dev Open Sud 2018.1",
     "content_id": "main_content",
-    "template": "static/template-16.html",
+    "template": "static/template.html",
     "css": ["static/css/style.css", "static/css/main.css"]
 }
